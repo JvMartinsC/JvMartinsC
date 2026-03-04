@@ -10,3 +10,7 @@ Biomedical Engineer specialized in Medical Imaging Systems.
 Ultrasound • CT • MRI • X-ray  
 Electronics background. Clinical Engineering focus.  
 Currently studying Artificial Intelligence.
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/JvMartinsC/JvMartinsC/blob/output/github-contribution-grid-snake.svg)
